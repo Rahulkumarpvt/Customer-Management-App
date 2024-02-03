@@ -1,4 +1,4 @@
-# Customer-Management-App
+# SunBaseApiClient
 
 SunBaseApiClient
 SunBaseApiClient is a simple Spring Boot application that provides CRUD functionality for managing customer records. It includes features like adding, updating, and deleting customer information.
@@ -23,7 +23,7 @@ Clone the repository:
 
 Bash:
 Copy code
-git clone https://github.com/your-username/SunBaseApiClient.git
+git clone https://github.com/Rahulkumarpvt/SunBaseApiClient.git
 Navigate to the project directory:
 
 bash
